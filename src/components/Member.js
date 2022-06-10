@@ -10,7 +10,7 @@ class Member extends React.Component{
     constructor(props){
         super(props);
 
-        // this.state = {
+        // this.git remote add origin https://github.com/hoanganit19/reactjsk7_02.git = {
         //     name: props.name,
         //     age: props.age
         // }
