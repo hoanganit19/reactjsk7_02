@@ -6,6 +6,10 @@ import Counter from './components/Counter';
 import Event from './components/Event';
 import Form from './components/Form';
 import LoginControl from './components/LoginControl';
+import Login from './components/Login';
+import Map from './components/Map';
+import MapState from './components/MapState';
+import Home from './components/Home';
 
 function App() {
 
@@ -21,7 +25,11 @@ function App() {
         {/* <Counter /> */}
         {/* <Event /> */}
         {/* <Form /> */}
-        <LoginControl />
+        {/* <LoginControl /> */}
+        {/* <Login /> */}
+        {/* <Map /> */}
+        {/* <MapState /> */}
+        <Home />
     </div>
   );
 }
